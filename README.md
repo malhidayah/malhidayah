@@ -1,10 +1,9 @@
 👋 Halo, Saya Amal Hidayah!
-👀 Minat Saya: Saya sangat tertarik dengan seni digital, AI, dsb.
+👀 Minat Saya: Saya sangat terinspirasi oleh seni digital, kecerdasan buatan (AI), dan semua hal kreatif yang memadukan teknologi dengan keindahan seni.
 
-🌱 Belajar Saat Ini: Saat ini saya sedang mendalami tentang bagaimana menjadi seorang influencer / konten kreator .
+🌱 Sedang Belajar: Saat ini saya sedang mendalami seni menjadi seorang influencer dan konten kreator—mempelajari cara menciptakan konten yang tak hanya menarik, tetapi juga bermakna dan berpengaruh.
 
-📫 Hubungi Saya: Anda dapat menghubungi saya melalui sosial media instagram @malnihya_.
-
+📫 Hubungi Saya: Anda dapat menemukan saya di Instagram dengan nama pengguna @malnihya_. Jangan ragu untuk mengirim pesan atau sekadar menyapa!
 
 <!---
 malhidayah/malhidayah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
