@@ -1,10 +1,13 @@
 <div align="center">
 
+<img src="yinyang.svg" width="150" alt="Lambang yin yang hitam putih" />
+
 # Amal Hidayah
 
 Kreator konten · Photoshop + Excel · AI untuk sisanya
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40malhidayah_-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/malhidayah_)
+<!-- Badge monokrom: logo Instagram putih di atas hitam (tanpa warna brand) — ditampilkan via link di bawah. Tetap readable di light & dark mode GitHub. -->
+[![Instagram](https://img.shields.io/badge/Instagram-%40malhidayah_-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/malhidayah_)
 
 </div>
 
@@ -29,11 +32,13 @@ Kreator konten · Photoshop + Excel · AI untuk sisanya
 
 ## Stats
 
+<!-- Hitam (#0d1117) murni tanpa preset tema → menyatu dengan GitHub dark. -->
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=malhidayah&show_icons=true&theme=monokai&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=malhidayah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=malhidayah&layout=compact&theme=monokai&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=malhidayah&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
 </div>
 
