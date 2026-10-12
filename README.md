@@ -4,7 +4,7 @@
 
 Kreator konten · Photoshop + Excel · AI untuk sisanya
 
-[@malhidayah_](https://instagram.com/malhidayah_)
+[![Instagram](https://img.shields.io/badge/Instagram-%40malhidayah_-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/malhidayah_)
 
 </div>
 
@@ -41,6 +41,6 @@ Kreator konten · Photoshop + Excel · AI untuk sisanya
 
 <div align="center">
 
-DM buat ngobrol: [@malhidayah_](https://instagram.com/malhidayah_)
+Sapa di Instagram: [@malhidayah_](https://instagram.com/malhidayah_)
 
 </div>
