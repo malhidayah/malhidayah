@@ -15,23 +15,17 @@ Kreator konten · Photoshop + Excel · AI untuk sisanya
 
 ## Cara kerja saya
 
-**Sendiri**
-Photoshop untuk edit visual. Excel untuk angka. Sedikit HTML/CSS untuk dasar.
-
-**Dengan AI**
-Ideasi, draf, eksplorasi gaya, dan semua yang belum saya kuasai.
-
----
+| Manual | AI |
+| :--- | :--- |
+| Photoshop buat edit visual | Ideasi dan draf |
+| Excel buat angka | Eksplorasi gaya |
+| Sedikit HTML/CSS | Sisanya yang belum saya kuasai |
 
 ## Sedang belajar
 
 - Alur content creation dari nol sampai konsisten
 - Cara memisahkan apa yang patut diserahkan ke AI dan apa yang harus manual
 - Cara bikin konten yang menarik sekaligus bermakna
-
-## Toolbox
-
-`Photoshop` `Excel` `HTML/CSS`  ·  sisanya AI
 
 ## Stats
 
