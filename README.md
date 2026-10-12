@@ -2,30 +2,38 @@
 
 # Amal Hidayah
 
-Kreator konten · belajar jadi creator · AI sebagai alat bantu
+Kreator konten · Photoshop + Excel · AI untuk sisanya
 
-[Instagram @malhidayah_](https://instagram.com/malhidayah_)
+[@malhidayah_](https://instagram.com/malhidayah_)
 
 </div>
 
 ---
 
-## Tentang
+> Saya sedang belajar: dari ide sampai publish.
+> AI mempercepat, saya yang pegang arahnya.
 
-Saya belajar membuat konten dari nol: ide, rekam, edit, publish. Proses konsisten > hasil instan.
-AI saya pakai untuk mempercepat, bukan menggantikan kreativitas.
+## Cara kerja saya
 
-## Saat ini
+**Sendiri**
+Photoshop untuk edit visual. Excel untuk angka. Sedikit HTML/CSS untuk dasar.
 
-- Mempelajari alur content creation penuh
-- Eksperimen AI sebagai partner editing dan ideasi
-- Membaca dan mengamati kreator yang saya kagumi
+**Dengan AI**
+Ideasi, draf, eksplorasi gaya, dan semua yang belum saya kuasai.
+
+---
+
+## Sedang belajar
+
+- Alur content creation dari nol sampai konsisten
+- Cara memisahkan apa yang patut diserahkan ke AI dan apa yang harus manual
+- Cara bikin konten yang menarik sekaligus bermakna
 
 ## Toolbox
 
-`Photoshop` `Excel` `HTML/CSS dasar` · sisanya AI
+`Photoshop` `Excel` `HTML/CSS`  ·  sisanya AI
 
-## Statistik
+## Stats
 
 <div align="center">
 
@@ -39,6 +47,6 @@ AI saya pakai untuk mempercepat, bukan menggantikan kreativitas.
 
 <div align="center">
 
-DM buat ngobrol / kolaborasi: [@malhidayah_](https://instagram.com/malhidayah_)
+DM buat ngobrol: [@malhidayah_](https://instagram.com/malhidayah_)
 
 </div>
